@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Startscene.unity
+    guid: 886ac1e7adf665e459b19b8cec920406
+  - enabled: 1
+    path: Assets/KriptoFX/MuzzleFlashes/Main.unity
+    guid: 43d7a374330e29044a85445d791fdfd7
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 2de01adbd64394b4895e73e0ee2593a8
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
